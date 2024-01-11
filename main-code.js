@@ -4,7 +4,7 @@ let compScore = 0;
 const choices = document.querySelectorAll(".choice");
 
 const uScore = document.querySelector("#user-score");
-const cScore = document.querySelector("#comp-score");
+const cScore = document.querySelector("#comp-score"); 
  
 
 //generate computer choice
